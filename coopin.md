@@ -8,19 +8,19 @@ C'est une **épicerie de village** créée à l’initiative de certains de 
 Coop in et distribution de pain
 Les principes de la Coop'In
 
-## UNE ORGANISATION HORIZONTALE
+## Une organisation horizontale
 
 Point de consommateurisme, chaque coopérateur participe à la gestion de la coop pour pouvoir y faire ses courses.
 
-## L'AUTOGESTION
+## L'autogestion
 
 Nous nous entraidons pour résoudre les éventuels besoins de l'épicerie. Ça passe par mutualiser les ressources, les fournitures et le système D (débrouille), en priorité. Nous comptons d'abord sur nos propres forces et ressources pour privilégier notre autonomie.
 
-## DES PRODUITS SECS
+## Des produits secs
 
 Pour des questions de conservation, la coop propose des produits secs (légumineuses, céréales, farines, sucre, huile, tisanes, boissons, produits d'hygiène....). La gestion de l'épicerie est beaucoup plus simple avec des produits peu périssables.
 
-## DES PRODUITS FRAIS
+## Des produits frais
 
 - Lou, de l'Âmyco à Plogastel, champignon frais pleurotes grises bio
 - Aurélie, des légumes du Train Carottes
@@ -28,23 +28,23 @@ Pour des questions de conservation, la coop propose des produits secs (légumin
 - Jason, du fournil du vent solaire à Tréogat
 - Yannick et Nelle, des fromages affinés au lait cru Ty Yann à Peumerit
 
-## EN VRAC
+## En vrac
 
 Enfin, on cherche à acheter le plus possible en vrac pour limiter les emballages et avoir des meilleurs tarifs.
 
-## LE PRIX COÛTANT
+## Le prix coûtant
 
 Nous voulons des produits de qualité accessibles à tous. Le travail habituellement fait par des salariés est fait par tous, les frais fixes sont payés par tous de manière transparente. Se sont les emplois chez les producteurs qui sont privilégiés en offrant des débouchés locaux même aux petites productions.
 
-## UNE CONSOMMATION RESPONSABLE
+## Une consommation responsable
 
 Nous privilégions les produits issus d’une agriculture responsable et raisonnable vis-à-vis de la santé des personnes et des écosystèmes. En conséquence, les choix seront préférentiellement locaux, biologiques (pas nécessairement labellisés), si possible issus d’entreprises solidaires et limitant les intermédiaires entre producteurs et coopérateurs.
 
-## PAS DE CAISSIER
+## Pas de caissier
 
 En autonomie, chacun.e. doit prendre soin de passer " à la caisse"et de bien débiter son propre compte, de s'acquitter de ses cotisations et adhésions.
 
-## UN PROJET SOUTENU PAR L'ASSOCIATION LES SEMEURS DE LA BAIE
+## Un projet soutenu par l'association les semeurs de la baie
 
 La coopérative n'a pas de statut juridique propre, elle est l'émanation d'un collectif de personnes souhaitant expérimenter un fonctionnement horizontal. Néanmoins et afin de répondre aux nécessités institutionnelles (bail), financières (comptes en banque, impôts), ou de sécurité (assurance des coopérateur(-trices) et du lieu), l'association des Semeurs de la baie est le support juridique du projet.
 
