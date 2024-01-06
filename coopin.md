@@ -1,10 +1,10 @@
---
+---
 title: La Coop'In : La coopérative autogérée de Pouldreuzic
---
+---
 
 # Qu'est-ce que la Coop'In - coopérative autogérée de Pouldreuzic?
 
-C'est une épicerie de village créée à l’initiative de certains de ses habitants. Elle est gérée collectivement et de manière bénévole, on y trouve des produits vendus à prix coûtant. Le projet naît de notre besoin d’agir concrètement face aux enjeux environnementaux et sociaux actuels.
+C'est une **épicerie de village** créée à l’initiative de certains de ses habitants. Elle est **gérée collectivement et de manière bénévole**, on y trouve des produits vendus à prix coûtant. Le projet naît de notre besoin d’agir concrètement face aux enjeux environnementaux et sociaux actuels.
 Coop in et distribution de pain
 Les principes de la Coop'In
 
