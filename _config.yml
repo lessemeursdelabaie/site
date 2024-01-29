@@ -1,6 +1,5 @@
 lsi: false
 safe: true
-source: [your repo's top level directory]
 incremental: false
 highlighter: rouge
 gist:
@@ -9,6 +8,7 @@ kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
 
+baseurl: /site/
 
 defaults:
   - scope:
@@ -20,3 +20,10 @@ defaults:
         Les semeurs de la Baie rassemble des bénévoles désireux de "faire notre part"
         et d'aider notre territoire à avancer sur le chemin de la transition écologique,
         économique et sociale.
+
+collections:
+  marches:
+    output: true
+
+excludes:
+  - Makefile

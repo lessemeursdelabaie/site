@@ -1,5 +1,8 @@
+---
+title: "Les semeurs de la Baie - Association de citoyens Pouldreuzic"
+---
 
-# Les semeurs de la baie : une association de citoyens au service de la transition écologique, économique et sociale à Pouldreuzic
+Une association de citoyens au service de la transition écologique, économique et sociale à Pouldreuzic
 
 ## Qui sommes-nous ?
 
@@ -18,6 +21,6 @@ Dans la limite de l'énergie disponible, nous accompagnons des projets qui vont 
 
 Pour rejoindre l'association, nous vous invitons à :
 
-    remplir le bulletin d'inscription (à télécharger et imprimer, ou à venir chercher directement au local, durant les horaires d'ouverture)
-    nous le renvoyer accompagné du règlement à l'adresse indiquée sur le bulletin, ou nous l'amener au local, durant les horaires d'ouverture
+- remplir le bulletin d'inscription (à télécharger et imprimer, ou à venir chercher directement au local, durant les horaires d'ouverture)
+- nous le renvoyer accompagné du règlement à l'adresse indiquée sur le bulletin, ou nous l'amener au local, durant les horaires d'ouverture
 
